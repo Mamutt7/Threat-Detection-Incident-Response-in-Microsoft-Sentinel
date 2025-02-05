@@ -13,3 +13,7 @@ This project simulates a **real-world Security Operations Center (SOC) workflow*
 
 ![image](https://github.com/user-attachments/assets/56935400-54d1-4b97-8040-903a6c70e18d)
 I've spun up Microsoft Sentinel through the Azure portal and have added a data connector: Microsoft Defender for Cloud.
+
+![image](https://github.com/user-attachments/assets/94663d15-26b1-4e01-9f0a-d1b1125bf57d)
+Here I've enabled sign-in logs and audit logs after installing Microsoft Entra ID onto Microsoft Sentinel.
+
